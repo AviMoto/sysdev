@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.avimoto.sysdev.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.avimoto.sysdev.MyBundle
 
 class MyApplicationService {
 
